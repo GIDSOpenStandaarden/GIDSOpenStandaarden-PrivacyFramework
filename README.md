@@ -8,7 +8,7 @@ In designing GIDS Open Standaarden, we therefore started to look with users at h
 
 Technically, this means only making visible what people have actually chosen to show. In many places, for example, your e-mail address is used to log in. But those e-mail addresses can be linked to each other and then, as a user, you no longer have the choice of what you share with whom. We therefore ensure that an organisation can know nothing more about you than what is necessary and what you have chosen to do. Giving choice also means clearly marking when another party is involved and marking when the way of dealing changes: those are the moments when you can make sensible choices. 
 
-An example of this is marking transitions and asking permission using [Health Tools Interoperability (HTI)](https://github.com/GIDSOpenStandaarden/Signpost#hti--production). The moment you actually jump to another party, this is made clear and you are offered choices. GIDS Open Standaarden has its own privacy framework for [design principles]() in Dtuch. 
+GIDS Open Standaarden has its own privacy framework for [design principles]() in Dutch. 
 
 ## This Privacy Framework uses a number of principles:
 1. Relationship central
