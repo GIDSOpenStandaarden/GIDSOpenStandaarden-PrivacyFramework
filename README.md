@@ -34,4 +34,5 @@ Self-direction is only possible if there is a user interface and an associated i
 7. Technical requirements
 From various angles you have to deal with privacy-oriented requirements that directly affect the technical choices.
 
+
 (c) 2020 Winfried Tilanus CC-SA-BY 4.0
