@@ -13,7 +13,7 @@ Om een dergelijk complex systeem te automatiseren, is het goed om op zoek te gaa
 
 Juridisch gezien is het ook belangrijk om te denken vanuit relaties: persoonsgegevens moeten altijd een duidelijke verantwoordelijke hebben en afhankelijk van je rol heb je verschillende rechten en plichten. Die rechten en plichten zijn tussen de verschillende rollen binnen en buiten de zorg conflicterend. Als het altijd duidelijk is bij welke relatie bepaalde data hoort en wie er verantwoordelijk voor is, kan voorkomen worden dat het systeem juridische spaghetti wordt.
 
-**Ontwerpeis:**
+1. **Ontwerpeis:**
     1. Van data is altijd duidelijk bij welke relatie het hoor
     2. Data die van de de ene naar de andere relatie gebracht wordt moet altijd aan die andere relatie relatie aangepast worden door middel van een of meerdere van de volgende processen: selecteren, samenvatten, annoteren, vertalen.
     3. Elke partij in een relatie heeft een eigen pseudoniem dat uniek is voor die relatie zodat, zonder aanvullende gegevens, de relaties niet op elkaar te herleiden zijn. Het is het besluit van de gebruiker om relaties aan elkaar kenbaar te maken of niet. De keuze daarvoor is een belangrijk aspect voor het vormgeven van de eigen regie. De AVG eist dat dergelijke (cruciale) privacy aspecten in het ontwerp van het systeem ingebakken zitten (Privacy by Design). Vandaar dat het ook een juridische eis is om dit op een technisch niveau al niet herleidbaar te maken.
