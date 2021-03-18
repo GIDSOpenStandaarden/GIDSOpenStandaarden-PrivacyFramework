@@ -40,7 +40,7 @@ Juridisch gezien is het ook belangrijk om te denken vanuit relaties: persoonsgeg
    </td>
   </tr>
   <tr>
-   <td><strong>Uitwerking: </strong>Architectuur voor de <a href="https://drive.google.com/file/d/1yOG20v8FaCiUProXRX6owja7pIzJ9mCY/view?usp=sharing">De Nieuwe GGZ</a> en <a href="https://drive.google.com/file/d/1aXiXJRO77qoqVkE-1PoDjt_roMrvIz9y/view?usp=sharing">informatiemodel & toelichting</a>.
+   <td>Uitwerking: Architectuur voor de <a href="https://drive.google.com/file/d/1yOG20v8FaCiUProXRX6owja7pIzJ9mCY/view?usp=sharing">De Nieuwe GGZ</a> en <a href="https://drive.google.com/file/d/1aXiXJRO77qoqVkE-1PoDjt_roMrvIz9y/view?usp=sharing">informatiemodel & toelichting</a>.
    </td>
   </tr>
 </table>
