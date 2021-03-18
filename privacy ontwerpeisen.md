@@ -50,9 +50,9 @@ Juridisch gezien is het ook belangrijk om te denken vanuit relaties: persoonsgeg
 
 ### 2. Opbouw van relaties en vertrouwen 
 
-    De basis voor dit thema is gelegd in het paper "[Opt-in, opt-out and bail-out: Privacy in new approaches to mental healthcare" (Amsterdam Privacy Conference 24 October 2015)](https://drive.google.com/file/d/18HfAjZsjKb-NJQuZU5vj99BYGWxrJBIW/view?usp=sharing). Elke relatie is anders en kent een eigen dynamiek. Die dynamiek, het vertrouwen in de andere partij en de uitgewisselde gegevens gaan hand in hand en zijn een dynamisch geheel. De keuzes voor het wel of niet delen van bepaalde gegevens moeten deze dynamiek dan ook volgen. Tegelijkertijd moeten de keuzes begrijpelijk en overzichtelijk zijn: het is natuurlijk om voor een relatie te kiezen, wat je wel of niet deelt volgt daar uit. Dat maakt het mogelijk om per soort relatie een set van 'veilige defaults' te definiëren, als het ware templates die dienen als standaard keuzes voor een bepaald type relatie. 
+De basis voor dit thema is gelegd in het paper "[Opt-in, opt-out and bail-out: Privacy in new approaches to mental healthcare" (Amsterdam Privacy Conference 24 October 2015)](https://drive.google.com/file/d/18HfAjZsjKb-NJQuZU5vj99BYGWxrJBIW/view?usp=sharing). Elke relatie is anders en kent een eigen dynamiek. Die dynamiek, het vertrouwen in de andere partij en de uitgewisselde gegevens gaan hand in hand en zijn een dynamisch geheel. De keuzes voor het wel of niet delen van bepaalde gegevens moeten deze dynamiek dan ook volgen. Tegelijkertijd moeten de keuzes begrijpelijk en overzichtelijk zijn: het is natuurlijk om voor een relatie te kiezen, wat je wel of niet deelt volgt daar uit. Dat maakt het mogelijk om per soort relatie een set van 'veilige defaults' te definiëren, als het ware templates die dienen als standaard keuzes voor een bepaald type relatie. 
 
-    Afhankelijk van de situatie kunnen mensen altijd er voor kiezen om (beide kanten op) daar van af te wijken. Met de [privacy game](https://drive.google.com/drive/folders/1pBVrrvQ9LemrWQhU26FWHJ8EwD3oqk3m?usp=sharing) worden dit uitgangspunt verder getoetst en uitgewerkt. Belangrijke resultaten van de privacy game zijn dat inderdaad de relatie belangrijker is dan de data, dat wederkerigheid een belangrijke factor is en dat de standaard ruimte moet bieden voor ontwikkeling van de relatie en de daarbij behorende veranderende behoefte aan het delen van gegeven. 
+Afhankelijk van de situatie kunnen mensen altijd er voor kiezen om (beide kanten op) daar van af te wijken. Met de [privacy game](https://drive.google.com/drive/folders/1pBVrrvQ9LemrWQhU26FWHJ8EwD3oqk3m?usp=sharing) worden dit uitgangspunt verder getoetst en uitgewerkt. Belangrijke resultaten van de privacy game zijn dat inderdaad de relatie belangrijker is dan de data, dat wederkerigheid een belangrijke factor is en dat de standaard ruimte moet bieden voor ontwikkeling van de relatie en de daarbij behorende veranderende behoefte aan het delen van gegeven. 
 
 <table>
   <tr>
@@ -100,7 +100,7 @@ Juridisch gezien is het ook belangrijk om te denken vanuit relaties: persoonsgeg
 
 ### 3. Zeggenschap over data 
 
-    Zeker in de zorg is de zeggenschap over persoonsgegevens complex. In principe heeft het data subject zeggenschap over over diens gegevens, maar er zijn letterlijk tientallen wetten en regels die daar uitzonderingen op maken. In de praktijk betekent dit dat de zeggenschap over de persoonsgegevens per relatie sterk kan verschillen. Daarbij geldt ook dat gedeelde gegevens niet meer 'ontdeeld' kunnen worden: Voor het verwijderen (en de zeggenschap over andere aspecten, zoals doorgifte van data) ben je afhankelijk van de andere partij en de regels waar die zich aan moet houden. Het is dus belangrijk om dit helder te communiceren zodat de partijen in een relatie over en weer weten wat ze van elkaar kunnen verwachten. Uit de[ AVG](https://autoriteitpersoonsgegevens.nl/nl/onderwerpen/avg-europese-privacywetgeving) volgt dat mededelingen hierover juridisch bindend zijn.
+Zeker in de zorg is de zeggenschap over persoonsgegevens complex. In principe heeft het data subject zeggenschap over over diens gegevens, maar er zijn letterlijk tientallen wetten en regels die daar uitzonderingen op maken. In de praktijk betekent dit dat de zeggenschap over de persoonsgegevens per relatie sterk kan verschillen. Daarbij geldt ook dat gedeelde gegevens niet meer 'ontdeeld' kunnen worden: Voor het verwijderen (en de zeggenschap over andere aspecten, zoals doorgifte van data) ben je afhankelijk van de andere partij en de regels waar die zich aan moet houden. Het is dus belangrijk om dit helder te communiceren zodat de partijen in een relatie over en weer weten wat ze van elkaar kunnen verwachten. Uit de[ AVG](https://autoriteitpersoonsgegevens.nl/nl/onderwerpen/avg-europese-privacywetgeving) volgt dat mededelingen hierover juridisch bindend zijn.
 
 <table>
   <tr>
@@ -140,7 +140,7 @@ Juridisch gezien is het ook belangrijk om te denken vanuit relaties: persoonsgeg
 
 ### 4. Content 
 
-    Een van de dingen die uit de presentatie "[Zelfbeschikking](https://drive.google.com/file/d/1mjQoOU9swQIu_hg4XtUlobUHCq_raEUJ/view?usp=sharing)" volgt, is dat persoonsgegevens verschillende statussen kan hebben: het kan een verhaal zijn dat je over jezelf creëert, het kan ook een verhaal zijn dat iemand anders over je creëert. Het kunnen gegevens zijn die er op gericht zijn om aan anderen door te geven, het kunnen gegevens waarvan het van belang is dat je kan aantonen dat het door iemand anders geverifieerd is.
+Een van de dingen die uit de presentatie "[Zelfbeschikking](https://drive.google.com/file/d/1mjQoOU9swQIu_hg4XtUlobUHCq_raEUJ/view?usp=sharing)" volgt, is dat persoonsgegevens verschillende statussen kan hebben: het kan een verhaal zijn dat je over jezelf creëert, het kan ook een verhaal zijn dat iemand anders over je creëert. Het kunnen gegevens zijn die er op gericht zijn om aan anderen door te geven, het kunnen gegevens waarvan het van belang is dat je kan aantonen dat het door iemand anders geverifieerd is.
 
 <table>
   <tr>
@@ -192,7 +192,7 @@ Juridisch gezien is het ook belangrijk om te denken vanuit relaties: persoonsgeg
 
 ### 5. Zoeken & gevonden worden 
 
-    De aanzet van dit thema is te vinden in informatiemodel & toelichting. De kern is dat je verschillende rollen c.q. contexten kan hebben waarop je vindbaar wil kunnen zijn of waarop je wil zoeken maar dat je niet per se wil dat die aan elkaar te linken zijn. De eisen moeten echter nog verder uitgewerkt worden, vooral op het punt van het creëren van een natuurlijke gebruikersinteractie. Ook zijn de functionele eisen op dit punt, buiten de privacy om, nog niet duidelijk. 
+De aanzet van dit thema is te vinden in informatiemodel & toelichting. De kern is dat je verschillende rollen c.q. contexten kan hebben waarop je vindbaar wil kunnen zijn of waarop je wil zoeken maar dat je niet per se wil dat die aan elkaar te linken zijn. De eisen moeten echter nog verder uitgewerkt worden, vooral op het punt van het creëren van een natuurlijke gebruikersinteractie. Ook zijn de functionele eisen op dit punt, buiten de privacy om, nog niet duidelijk. 
 
 <table>
   <tr>
@@ -228,7 +228,7 @@ Juridisch gezien is het ook belangrijk om te denken vanuit relaties: persoonsgeg
 
 ### 6. Userinterface & interaction design 
 
-    Regie is alleen mogelijk als er een userinterface en een bijbehorend interactie design is die mensen helpt om vrije keuzes te maken. Ook helpt het als de verschillende applicaties die de SNS implementeren een vergelijkbare beeldtaal en workflow hanteren, zodat gebruikers de interactie herkennen en niet steeds opnieuw moeten ontdekken. Waar nodig moet de SNS dit afdwingen, waar mogelijk ondersteunen.
+Regie is alleen mogelijk als er een userinterface en een bijbehorend interactie design is die mensen helpt om vrije keuzes te maken. Ook helpt het als de verschillende applicaties die de SNS implementeren een vergelijkbare beeldtaal en workflow hanteren, zodat gebruikers de interactie herkennen en niet steeds opnieuw moeten ontdekken. Waar nodig moet de SNS dit afdwingen, waar mogelijk ondersteunen.
 
 <table>
   <tr>
@@ -252,7 +252,7 @@ Juridisch gezien is het ook belangrijk om te denken vanuit relaties: persoonsgeg
 
 ### 7. Technische eisen 
 
-    Vanuit verschillende hoeken zijn er privacy gerichte eisen die direct gevolgen hebben voor technische keuzes die gemaakt worden.
+Vanuit verschillende hoeken zijn er privacy gerichte eisen die direct gevolgen hebben voor technische keuzes die gemaakt worden.
 
 <table>
   <tr>
