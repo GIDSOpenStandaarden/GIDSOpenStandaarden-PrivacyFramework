@@ -13,14 +13,12 @@ Om een dergelijk complex systeem te automatiseren, is het goed om op zoek te gaa
 
 Juridisch gezien is het ook belangrijk om te denken vanuit relaties: persoonsgegevens moeten altijd een duidelijke verantwoordelijke hebben en afhankelijk van je rol heb je verschillende rechten en plichten. Die rechten en plichten zijn tussen de verschillende rollen binnen en buiten de zorg conflicterend. Als het altijd duidelijk is bij welke relatie bepaalde data hoort en wie er verantwoordelijk voor is, kan voorkomen worden dat het systeem juridische spaghetti wordt.
 
-1. **Ontwerpeis:**
+1. **Ontwerpeis en uitwerking:** Architectuur voor de [De Nieuwe GGZ](https://drive.google.com/file/d/1yOG20v8FaCiUProXRX6owja7pIzJ9mCY/view?usp=sharing) en [informatiemodel & toelichting](https://drive.google.com/file/d/1aXiXJRO77qoqVkE-1PoDjt_roMrvIz9y/view?usp=sharing).
     1. Van data is altijd duidelijk bij welke relatie het hoor
     2. Data die van de de ene naar de andere relatie gebracht wordt moet altijd aan die andere relatie relatie aangepast worden door middel van een of meerdere van de volgende processen: selecteren, samenvatten, annoteren, vertalen.
     3. Elke partij in een relatie heeft een eigen pseudoniem dat uniek is voor die relatie zodat, zonder aanvullende gegevens, de relaties niet op elkaar te herleiden zijn. Het is het besluit van de gebruiker om relaties aan elkaar kenbaar te maken of niet. De keuze daarvoor is een belangrijk aspect voor het vormgeven van de eigen regie. De AVG eist dat dergelijke (cruciale) privacy aspecten in het ontwerp van het systeem ingebakken zitten (Privacy by Design). Vandaar dat het ook een juridische eis is om dit op een technisch niveau al niet herleidbaar te maken.
     4. Relaties zijn altijd te verbreken basaal voor de eigen regie.
-    5. Het protocol is agnostisch of de relaties tussen mensen onderling, mensen en machines of tussen machines onderling zijn. De rol van apps (machines), komt in verschillende klantreizen naar voren. Dit levert in privacy opzicht een eigen dynamiek op, zie: "[Big Data the e-health bubble and its fix" TILTing Perspectives, 23 april 2015](https://drive.google.com/file/d/1Q5iR98C4YoyQulDPBS5m_8gOVR3Z152_/view?usp=sharing). Een van de manieren om de privacy te waarborgen als de persoonsgegevens door machines verwerkt worden, is om ze aan hetzelfde regime te onderwerpen als de relaties tussen mensen.
-
-**Uitwerking:** Architectuur voor de [De Nieuwe GGZ](https://drive.google.com/file/d/1yOG20v8FaCiUProXRX6owja7pIzJ9mCY/view?usp=sharing) en [informatiemodel & toelichting](https://drive.google.com/file/d/1aXiXJRO77qoqVkE-1PoDjt_roMrvIz9y/view?usp=sharing).
+    5. Het protocol is agnostisch of de relaties tussen mensen onderling, mensen en machines of tussen machines onderling zijn. De rol van apps (machines), komt in verschillende klantreizen naar voren. Dit levert in privacy opzicht een eigen dynamiek op, zie: "[Big Data the e-health bubble and its fix" TILTing Perspectives, 23 april 2015](https://drive.google.com/file/d/1Q5iR98C4YoyQulDPBS5m_8gOVR3Z152_/view?usp=sharing). Een van de manieren om de privacy te waarborgen als de persoonsgegevens door machines verwerkt worden, is om ze aan hetzelfde regime te onderwerpen als de relaties tussen mensen. \
 
 
 ### 2. Opbouw van relaties en vertrouwen 
