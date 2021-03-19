@@ -1,6 +1,3 @@
-# Privacy by design
-
-
 ## Versie en suggesties
 
 Versie 1.0, 15 december 2020, Stabiele versie.
