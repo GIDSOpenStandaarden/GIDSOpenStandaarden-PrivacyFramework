@@ -1,3 +1,13 @@
+# Privacy ontwerpeisen
+
+
+## Versie en suggesties
+
+Versie 1.0, 15 december 2020, Stabiele versie.
+
+Deze versie van het veiligheidskader is stabiel, suggesties voor wijziging, opmerkingen en aanverwante kunnen in het volgende document aangebracht worden: [Privacy by design - ontwerpeisen Sociale Netwerk Standaard - development versie](https://docs.google.com/document/d/1pBTFgYbyHdUIfAusVIkOTTndL6GudWnrSntns3Q_WsA/edit?usp=sharing). Voel je vrij om in die versie wijzigingen voor te stellen of opmerkingen te plaatsen.
+
+## Introductie
 Binnen GIDS Open Standaarden zijn er 3 thema's op privacy gebied geïdentificeerd die aandacht behoeven: 
 
 1. Regie in het zorgproces vertalen naar regie over de data: op welke manier kunnen we zorgen dat de op te bouwen netwerk standaard ook de eigen regie bij de zorgprocessen op de grond versterkt?
