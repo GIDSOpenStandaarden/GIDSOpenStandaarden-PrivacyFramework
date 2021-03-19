@@ -1,4 +1,4 @@
-# Privacy ontwerpeisen
+# Privacy by design
 
 
 ## Versie en suggesties
